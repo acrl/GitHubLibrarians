@@ -3,8 +3,8 @@ A place to gather best practices for why and how we GitHub
 
 This document is being written in Markdown
 
-Tutorials for Basics
-## 1. [Hello World from GitHub](https://guides.github.com/activities/hello-world/)
+## Tutorials for Basics
+1. [Hello World from GitHub](https://guides.github.com/activities/hello-world/)
 2. [What is GitPages](https://pages.github.com/)
 
 
