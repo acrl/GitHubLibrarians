@@ -23,3 +23,4 @@ This document is being written in Markdown
 
 # Things to read and know
 1. [Version Control for Microsoft Word: Bringing the features of Git and GitHub to Microsoft Word](https://www.simuldocs.com/blog/ben-morris/version-control-for-microsoft-word)
+2. [Project Documentation in GitHub](https://guides.github.com/features/wikis/)
